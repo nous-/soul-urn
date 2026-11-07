@@ -234,7 +234,7 @@ You're done.
 | 1 | Lithium-ion battery pack, 3.7 V 4400 mAh | [Adafruit #354](https://www.adafruit.com/product/354) | Two 18650 cells, about 69 × 37 × 18 mm, 95 g, JST-PH plug. The electronics carrier is sized for this pack |
 | 1 | KCD11 mini rocker switch, SPST 2-pin, 10 × 15 mm (10-pack) | [Amazon](https://www.amazon.com/dp/B0CSJTHZHR) | Fits the urn's switch mount, but works backwards. **Needs replacing**; see the switch note below |
 | 1 | 60-pc female spade crimp terminal kit (2.8 / 4.8 / 6.3 mm, with 25 cm red/black wires) | [Amazon](https://www.amazon.com/dp/B0B9MZJ2ML) | Clip onto the speaker tabs and the switch pins. Speaker: bare ends into the Feather's `+`/`-` screw terminals. Switch: solder the other ends to `EN` and `GND` |
-| 2 | Heavy Duty Magnets, 20 × 2 mm round (50-pack) | [Amazon](https://www.amazon.com/dp/B0GX9WXV9T) | One per stand, dropped in during a print pause (pocket Ø20.4 × 2.4 mm). One North-up, one South-up |
+| 1 | Heavy Duty Magnets, 20 × 2 mm round (50-pack) | [Amazon](https://www.amazon.com/dp/B0GX9WXV9T) | One per stand, dropped in during a print pause (pocket Ø20.4 × 2.4 mm). One North-up, one South-up |
 | 1 | Fgruh 750-pc M3 assortment: socket screws, nuts and washers | [Amazon](https://www.amazon.com/Fgruh-750PCS-Assortment-Washers-Assorted/dp/B0FGV5FCBN) | Supplies all the M3 screws (×20, ×12, ×10 mm), nuts and washers; see [Setup](#setup) for which go where |
 | 1 | Acousta-Stuf polyfill | [Amazon](https://www.amazon.com/Acousta-Stuf-Polyfill-Speaker-Cabinet-Material/dp/B0002ZPLDY) | Sealed rear chamber, behind the polyfill guard |
 | 1 | Speaker grille cloth / mesh fabric | [Amazon](https://www.amazon.com/dp/B07F3YS99J) | A small piece sits on the polyfill guard |
