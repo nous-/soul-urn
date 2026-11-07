@@ -202,8 +202,10 @@ they're easy to tell apart. Click an image for full size.
    terminals. Plan where the wires will go first; I broke off the right side
    wall to make room for the wires coming down from above there (v2!). Cut the
    wires to length, strip them, and solder one to `GND` and the other to `EN`.
-7. **Fit the battery.** Drop it into place and plug it into the board. The board
-   powers up as soon as the battery is connected unless the switch is off.
+7. **Fit the battery.** Pad it first so it can't rattle: wrap it with a layer
+   of foam or rubber tape, enough that it slides in snugly. Drop it into place
+   and plug it into the board. The board powers up as soon as the battery is
+   connected unless the switch is off.
 8. **Load the lid nuts.** Put two M3 nuts into their holes in the lid; they drop
    behind the smaller hole, ready to take the screw.
 9. **Fit the wave lid.** Carefully slide it into place. It sits flush against the
@@ -259,6 +261,7 @@ middle pin and the "O"-side pin). Until then, its markings are reversed.
   [this one](https://www.amazon.com/dp/B0CBTYZY2S); any equivalent works.
 - Super glue (e.g. Loctite) for the stand magnets, and optionally for the tube
   nuts.
+- Foam or rubber tape to pad the battery so it doesn't rattle.
 - A 3D printer that can print multiple materials in the same print. I use the
   [Bambu Lab X2D](https://bambulab.com/en-us/x2d).
 - Optional: a helping-hands soldering station. Not a must for this project,
