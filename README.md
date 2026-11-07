@@ -24,6 +24,8 @@ Thanks to:
   and for building a high-quality product. Hats off to you.
 - **Meshy.** Great service. It worked the first time.
 
+Build one? Share your photos and videos! I'd love to see it.
+
 ## Setup
 
 ### 1. Buy the parts
@@ -390,9 +392,18 @@ holding still is silent, gentle steps tinkle, brisk walking rings on each step,
 and a hard shake rings loudly. Bell and music settings are in
 `firmware/urn/settings.py`, along with the rest of the tuning.
 
+## Contributing
+
+Built one? I'd love to see it, so open an issue and share a photo/videos. Want to make
+it better? Pull requests are welcome. If you're looking for somewhere to start,
+the [problems and future versions](#problems-and-future-versions) list has
+plenty. Or go further: add a mic and make it conversational.
+
 ## License
 
 [MIT](LICENSE): anyone can use, copy, modify and sell this, code and models
 alike, for any purpose. All models were rebuilt from scratch; none of Valve's
 game assets are included. Valve's names and trademarks aren't covered, and the
 game audio you extract stays Valve's.
+
+Made by Andrew Gilgallon ([@nous-](https://github.com/nous-)).
