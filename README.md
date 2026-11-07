@@ -3,6 +3,10 @@
 > Fan project. Not affiliated with or endorsed by Valve. Deadlock and the Soul
 > Urn are trademarks of Valve Corporation. No game files are included.
 
+<a href="https://youtube.com/shorts/FrbNpWx47Ck"><img src="https://img.youtube.com/vi/FrbNpWx47Ck/hqdefault.jpg" width="480"></a>
+
+[I built a real-life Soul Urn from Deadlock 🏺](https://youtube.com/shorts/FrbNpWx47Ck)
+
 A physical, motion-reactive replica of the Soul Urn from Deadlock. It fills on
 one of two stands, telling them apart by the magnet in each (one North-up, one
 South-up). It knows when it's picked up, carried, set down or dropped, and
@@ -378,7 +382,8 @@ In the `tools/` folder.
    delivered.
 4. **Set it down or drop it.** Set it down somewhere other than a stand and it
    notices after a couple of seconds and comments. Drop it and it flashes red
-   and complains. Pick it back up and carry on.
+   and complains. Either way the carry music stops, and starts again when you
+   pick it back up and carry on.
 5. **Deliver it.** Put it on the other stand to drop it off: the delivery effect
    and a voice line play. Putting it back on the stand it came from doesn't
    count. After a delivery the stands swap roles, and the urn starts filling
